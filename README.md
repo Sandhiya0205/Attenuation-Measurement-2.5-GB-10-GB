@@ -72,6 +72,8 @@ Compare simulation results with pre-lab calculations and record observations.
 
 
 - **Screenshots** of layout and results (including eye diagrams)
+- <img width="1022" height="546" alt="image" src="https://github.com/user-attachments/assets/dc0d8b41-08e7-4eb8-9582-1685fa66fe36" />
+
   
  
 
